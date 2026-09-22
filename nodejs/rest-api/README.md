@@ -1,0 +1,12 @@
+# Rest Api\n\n- [Experiment 1: Create a basic RESTful API using Express.js.](./node-01-create-a-basic-restful-api-using-expressjs.js)
+- [Experiment 2: Implement a GET REST API.](./node-02-implement-a-get-rest-api.js)
+- [Experiment 3: Implement a POST REST API.](./node-03-implement-a-post-rest-api.js)
+- [Experiment 4: Implement a PUT/PATCH REST API.](./node-04-implement-a-put-patch-rest-api.js)
+- [Experiment 5: Implement a DELETE REST API.](./node-05-implement-a-delete-rest-api.js)
+- [Experiment 6: Implement proper HTTP Status Codes in REST APIs.](./node-06-implement-proper-http-status-codes-in-rest-apis.js)
+- [Experiment 7: Implement API Error Handling.](./node-07-implement-api-error-handling.js)
+- [Experiment 8: Implement API Request Validation.](./node-08-implement-api-request-validation.js)
+- [Experiment 9: Test REST APIs using Postman.](./node-09-test-rest-apis-using-postman.js)
+- [Experiment 10: Create a Student REST API with Database Connectivity.](./node-10-create-a-student-rest-api-with-database-connectivity.js)
+- [Experiment 11: Create a Product REST API with CRUD Operations.](./node-11-create-a-product-rest-api-with-crud-operations.js)
+- [Experiment 12: Create a User REST API with Authentication and Authorization.](./node-12-create-a-user-rest-api-with-authentication-and-authorization.js)\n
